@@ -99,7 +99,7 @@ public function approachDCLTrap():void
 	
 	if(flags["MET_DEL"] == undefined)
 	{
-		flags["MET_DEL"] = 1;
+		flags["MET_DEL"] = ;
 		showBust("BETH", showDelString());
 		showName("BETH AND\nDELILAH");
 		output("You approach the slender bartender and ask what’s on tap.");
